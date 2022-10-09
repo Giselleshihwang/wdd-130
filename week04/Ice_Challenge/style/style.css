@@ -1,0 +1,25 @@
+body {
+    background-color: pink;
+}
+
+img {
+    width: 20%;
+    display: block;
+    margin: 0 auto;
+}
+ol {
+    text-align: center;
+    list-style-type: decimal
+}
+
+li::marker{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
+blockquote {
+    text-align: center;
+}
