@@ -63,6 +63,12 @@ nav a {
     margin: 50px;
 }
 
+.p {
+    background-color: rgb(255, 194, 194);
+    color: rgb(135, 115, 115);
+    padding: 1em;
+}
+
 /*contact us*/
 form {
     margin: 0 auto;
