@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 222, 222);
+    background-color: rgb(242, 161, 132);
     margin: 0
 }
 #content {
@@ -34,81 +34,8 @@ nav a {
     padding: 35px;
 } 
 
-/*Home*/
-.background {
-    width: 80%;
-    opacity: 0.7;
-    margin-left: 150px;
-
-}
-
-.img-1 {
-    width: 150px;
-    margin: 50px;
-}
-
-.img-2 {
-    width: 150px;
-    margin: 50px;
-}
-.img-3 {
-    width: 150px;
-    margin: 50px;
-}
-.img-4 {
-    width: 150px;
-    margin: 50px;
-}
-
-/*Page 2*/
-.img-5 {
-    width: 150px;
-    margin: 50px;
-}
-.img-6 {
-    width: 150px;
-    margin: 50px;
-}
-.img-7 {
-    width: 150px;
-    margin: 50px;
-}
-.img-8 {
-    width: 150px;
-    margin: 50px;
-}.img-9 {
-    width: 150px;
-    margin: 50px;
-}
-.img-10 {
-    width: 150px;
-    margin: 50px;
-}.img-11 {
-    width: 150px;
-    margin: 50px;
-}
-.img-12 {
-    width: 150px;
-    margin: 50px;
-}
-.img-13 {
-    width: 150px;
-    margin: 50px;
-}
-.img-14 {
-    width: 150px;
-    margin: 50px;
-}
-
-.p {
-    background-color: rgb(255, 194, 194);
-    color: rgb(135, 115, 115);
-    padding: 1em;
-}
 
 /*contact us*/
-
-
 form {
     margin: 0 auto;
     width: 400px;
@@ -172,20 +99,8 @@ form {
     margin-top: 3em;
 }
 
-.img-15 {
-    width: 20%;
-    margin: 80px;
-}
-.img-16 {
-    width: 20%;
-    margin: 80px;
-}
-.img-17 {
-    width: 20%;
-    margin: 80px;
-}
 
-/*footer*/
+//*footer*/
 footer p {
     font-size: 1.2em;
 }
